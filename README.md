@@ -1,4 +1,4 @@
-#Amazon Clone Frontn Page<br>
+#Amazon Clone Front Page<br>
 This is a clone of the front page of Amazon, created using  HTML and CSS.<br>
 #About<br>
 -It recreates the look and feel of the Amazon homepage.<br>
